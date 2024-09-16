@@ -102,6 +102,12 @@ export const servers: { [name: string]: Server } = {
             discord: 'https://discord.gg/kRnSZ57e4u'
         }
     }
-
+    hauntedcraft: {
+        name: 'ＢＥＲＧＰＬＡＹ',
+        ip: '54.38.132.50:25565
+        desc: ' Уникальный сервер с мистикой Глобальное обновление сервера ',
+        links: {
+            discord: ''
+	}
 }
 
